@@ -58,6 +58,7 @@ public class HomePage extends base{
 	{
 		System.out.println("Testing Git");
 		System.out.println("Testing Git 2");
+		System.out.println("Testing Git 3");
 		driver.close();
 	
 		
